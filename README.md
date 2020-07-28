@@ -1,4 +1,4 @@
-# CRUD2
+# Gestao Alunos
 
 Um sistema simples de gestao de alunos, feito em PHP e JavaScript, onde se adiciona, deleta e pesquisa no banco de dados MySQL  
 Para rodar o sistema, abra o mysql workbench ou abra o mysql no terminal, execute os comandos:  
