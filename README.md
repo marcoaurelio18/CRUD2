@@ -1,6 +1,6 @@
 # CRUD2
 
-Um sistema simples de gestao de alunos, onde se adiciona, deleta e pesquisa no banco de dados MySQL  
+Um sistema simples de gestao de alunos, feito em PHP e JavaScript, onde se adiciona, deleta e pesquisa no banco de dados MySQL  
 Para rodar o sistema, abra o mysql workbench ou abra o mysql no terminal, execute os comandos:  
 1. CREATE DATABASE alunos;  
 2. CREATE TABLE alunos(  
